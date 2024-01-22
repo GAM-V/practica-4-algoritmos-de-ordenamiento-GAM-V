@@ -1,1 +1,1 @@
-# edl-practica-algoritmos-ordenamiento
+# Práctica 4: Algoritmos de ordenamiento
