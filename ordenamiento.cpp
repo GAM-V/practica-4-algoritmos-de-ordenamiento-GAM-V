@@ -68,6 +68,8 @@ duration<double> ordenar_quicksort(int* A, int TAM_ARREGLO) {
 }
 
 
+
+
 int* copiar_arreglo(int A[], int n) {
     int *aux = new int[n];
     for (int i = 0; i < n; i++) {
