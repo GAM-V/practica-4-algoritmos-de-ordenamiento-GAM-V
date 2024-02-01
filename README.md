@@ -13,7 +13,7 @@ Tras ejecutar el código mediante la línea de comando y proporcionar diferentes
 
 Imagen 1. Tabla de Promedios:
 ![Alt text](image-4.png)
-
+ 
 Imagen 2. Tabla de Desviación Estándar:
 ![Alt text](image-1.png)
 

@@ -22,7 +22,7 @@ void insertion_sort(int A[], int n) {
 
 
 void selection_sort(int A[], int n) {
-    for (int j = 0; j < n-1; j++) {
+    for (int j = 0; j < n-1; j++) { 
         int menor = j;
  
         // Encuentra el elemento minimo del subarreglo
